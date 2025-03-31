@@ -29,7 +29,7 @@ The project utilizes the following **technologies and tools**:
 ## Dataset Used
 This project utilizes the **AdventureWorks Dataset**, a sample database provided by Microsoft, which contains transactional and business data related to a fictional bicycle manufacturer. It includes information on sales, customers, products, employees, and more.
 
-Here is the dataset used: [AdventureWorks Sample Database](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15)
+Here is the dataset used: https://github.com/amaanalimohd/adventureworks-azure-pipeline/tree/main/data
 
 ### **More Info About Dataset**
 - **Original Data Source:** [Microsoft Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15)
