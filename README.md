@@ -25,6 +25,7 @@ The project utilizes the following **technologies and tools**:
   - **Python** – for data processing and transformation
   - **SQL** – for querying and managing databases
   - **PySpark** – for distributed data processing in Databricks
+  - **JSON** – for structured data handling and API interactions
 
 ## Dataset Used
 This project utilizes the **AdventureWorks Dataset**, a sample database provided by Microsoft, which contains transactional and business data related to a fictional bicycle manufacturer. It includes information on sales, customers, products, employees, and more.
@@ -54,17 +55,14 @@ Here is the dataset used: https://github.com/amaanalimohd/adventureworks-azure-p
 - Use Power BI to create interactive dashboards and reports.
 
 ## Key Learnings
-- **Real-time data ingestion** from databases.
-- **Building dynamic ETL pipelines** using **Azure Data Factory**.
-- **Data transformation and processing** using **Azure Databricks**.
-- **Storing and managing data** in **Azure Data Lake Gen2**.
-- **Serving processed data** with **Azure Synapse Analytics**.
-- **Creating dashboards** and **visualizations** using **Power BI**.
-- **Using Python, SQL, and PySpark for data transformations**.
-- **Understanding data security, access control, and permissions**.
-
-## Contributors
-- **Mohd Amaan Ali**
+- Real-time data ingestion from databases.
+- Building dynamic ETL pipelines using Azure Data Factory.
+- Data transformation and processing using Azure Databricks.
+- Storing and managing data in Azure Data Lake Gen2.
+- Serving processed data with Azure Synapse Analytics.
+- Creating dashboards and visualizations using Power BI.
+- Using Python, SQL, and PySpark for data transformations.
+- Understanding data security, access control, and permissions.
 
 ---
 
