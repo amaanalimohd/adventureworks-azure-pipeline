@@ -13,13 +13,27 @@ This project serves as a one-stop solution for data engineering, covering essent
 ## Architecture Diagram
 
 ## Tech Stack
-The project utilizes the following **Azure services**:
-- **Azure Data Factory** – for data ingestion and orchestration
-- **Azure Databricks** – for data transformation
-- **Azure Data Lake Gen2** – for storing raw and transformed data
-- **Azure Synapse Analytics** – for serving data
-- **Power BI** – for reporting and visualization
-- **AdventureWorks Dataset** – as the data source
+The project utilizes the following **technologies and tools**:
+- **Azure Services:**
+  - **Azure Data Factory** – for data ingestion and orchestration
+  - **Azure Databricks** – for data transformation
+  - **Azure Data Lake Gen2** – for storing raw and transformed data
+  - **Azure Synapse Analytics** – for serving data
+  - **Power BI** – for reporting and visualization
+  
+- **Programming & Scripting Languages:**
+  - **Python** – for data processing and transformation
+  - **SQL** – for querying and managing databases
+  - **PySpark** – for distributed data processing in Databricks
+
+## Dataset Used
+This project utilizes the **AdventureWorks Dataset**, a sample database provided by Microsoft, which contains transactional and business data related to a fictional bicycle manufacturer. It includes information on sales, customers, products, employees, and more.
+
+Here is the dataset used: [AdventureWorks Sample Database](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15)
+
+### **More Info About Dataset**
+- **Original Data Source:** [Microsoft Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15)
+- **Data Dictionary:** [AdventureWorks Data Dictionary](https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/home.html)
 
 ## Project Workflow
 ### 1. Data Ingestion
@@ -38,3 +52,20 @@ The project utilizes the following **Azure services**:
 
 ### 5. Reporting and Visualization
 - Use Power BI to create interactive dashboards and reports.
+
+## Key Learnings
+- **Real-time data ingestion** from databases.
+- **Building dynamic ETL pipelines** using **Azure Data Factory**.
+- **Data transformation and processing** using **Azure Databricks**.
+- **Storing and managing data** in **Azure Data Lake Gen2**.
+- **Serving processed data** with **Azure Synapse Analytics**.
+- **Creating dashboards** and **visualizations** using **Power BI**.
+- **Using Python, SQL, and PySpark for data transformations**.
+- **Understanding data security, access control, and permissions**.
+
+## Contributors
+- **Mohd Amaan Ali**
+
+---
+
+### 📢 **If you find this project helpful, consider giving it a ⭐ on GitHub!** 🚀
