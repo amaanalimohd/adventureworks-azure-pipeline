@@ -11,6 +11,7 @@ This project serves as a one-stop solution for data engineering, covering essent
 - **Gold Layer:** Serving Data for Reporting
 
 ## Architecture Diagram
+![Project Architecture](architecture_diagram.jpg)
 
 ## Tech Stack
 The project utilizes the following **technologies and tools**:
@@ -53,6 +54,9 @@ Here is the dataset used: https://github.com/amaanalimohd/adventureworks-azure-p
 
 ### 5. Reporting and Visualization
 - Use Power BI to create interactive dashboards and reports.
+  
+## Scripts for project
+https://github.com/amaanalimohd/adventureworks-azure-pipeline/tree/main/Reference%20Script
 
 ## Key Learnings
 - Real-time data ingestion from databases.
